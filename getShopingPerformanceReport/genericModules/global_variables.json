@@ -1,0 +1,12 @@
+{
+"BID_OPTIMIZER_PATH_SHEET":"https://docs.google.com/a/keywordio.com/spreadsheets/d/1hoPoTuSvw_ZVpnA6RBxyYt3CSrdX1k0JU4sgYNvxWjE/",
+"API_VERSION":"v201809",
+"RETRY_INTERVAL":10,
+"RETRIES_COUNT":30,
+"PAGE_SIZE" : 100,
+"BULK_MUTATE_LIMIT":5000,
+"MAX_POLL_ATTEMPTS":5,
+"MILLION":1000000,
+"ADHELP_SHEET":"https://docs.google.com/spreadsheets/d/1JN-_acCOA9duFVgcHk5ILTZrBYLjE0Jx4Ko2bGMeZl4/edit?ts=5e970a42#gid=1043214587",
+"GOOGLE_ADS_API_VERSION":"v6"
+}

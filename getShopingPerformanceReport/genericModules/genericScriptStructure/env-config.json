@@ -1,0 +1,29 @@
+{
+	"base":{
+		"developer_email":"xyz@keywordio.xom",
+		"slack_channels": ["123456"],
+	},
+
+	"prod": {
+		"spreadsheets": {"spreadsheet_description":"spreadsheet_url"},
+		"db_name":"db_script_name",
+		"email":{
+			"to":"",
+			"cc"
+			"bcc"
+		}
+	},
+	"dev": {
+		"spreadsheets": {"spreadsheet_description":"spreadsheet_url"},
+		"db_name":"test_db_script_name",
+		"email":{
+			"to"
+			"cc"
+			"bcc"
+		}
+	}
+}
+
+// to = dict.get('to')
+// if to:
+// 	send_email()
